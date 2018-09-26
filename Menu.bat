@@ -1,0 +1,1 @@
+python DailyMenu\menu.py
