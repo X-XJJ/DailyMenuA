@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
     #合并列表，+生成新列表，append追加一个，extend追加一表等价于+=
     MorningList = porridge + moStable + pickles
-    # join()函数返回一个以分隔符'sep'连接各个元素后生成的字符串
+    # 'sep'.join(seq)函数 返回一个以分隔符'sep'连接seq各个元素后生成的字符串
     #print('，'.join(MorningList))
     print("早午膳："+'，'.join(MorningList))
 
